@@ -52,7 +52,7 @@ I’m **Abdul Mateen**, a **DevOps & Cloud Engineer** focused on engineering res
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateen-206064297/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mateenn/"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mateen.devsec@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
 </p>
 
