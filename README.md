@@ -14,7 +14,7 @@
 
 <br>
 
-### ⚡ Architectural Overview
+### ⚡ Overview
 
 I’m **Abdul Mateen**, a **DevOps & Cloud Engineer** focused on engineering resilient, scalable, and secure cloud environments. My work centers on automating development lifecycles, eliminating operational friction, and building fault-tolerant distributed systems.
 
